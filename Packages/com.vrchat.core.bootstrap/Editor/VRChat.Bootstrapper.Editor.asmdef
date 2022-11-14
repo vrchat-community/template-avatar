@@ -1,5 +1,5 @@
 {
-    "name": "com.vrchat.core.vpm-resolver.Editor",
+    "name": "VRChat.Bootstrapper.Editor",
     "references": [],
     "includePlatforms": [
         "Editor"
