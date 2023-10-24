@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.IO;
 using System.Net;
 using System.Text.RegularExpressions;
@@ -58,7 +58,7 @@ namespace VRC.PackageManagement.Core
                 return;
             }
 
-            var url = $"{bootstrapMatch.Groups[1].Value}&cache={Guid.NewGuid()}";
+            var url = bootstrapMatch.Groups[1].Value;
             
             var targetFile =  Path.Combine(Path.GetTempPath(), $"resolver-{DateTime.Now.ToString("yyyyMMddTHHmmss")}.unitypackage");
             
