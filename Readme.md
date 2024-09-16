@@ -43,7 +43,7 @@ If you're familiar with git, use your favorite client or the command line to clo
 
 </summary>
 
-Use Unity 2022.3.6f1 to open the project. Press "OK" on the dialog that offers to download the required VRChat packages.
+Use Unity 2022.3.22f1 to open the project. Press "OK" on the dialog that offers to download the required VRChat packages.
   
 ![image](https://user-images.githubusercontent.com/737888/185468226-33492169-c1f5-4b27-b5c4-83febb5e6e66.png)
 
